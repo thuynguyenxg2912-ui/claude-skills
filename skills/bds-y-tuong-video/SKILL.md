@@ -6,7 +6,7 @@ description: Tạo ý tưởng video TikTok ngách bất động sản Việt Na
 # Ý tưởng video TikTok Bất động sản
 
 ## Trước khi bắt đầu
-1. Đọc `kenh-profile.md` ở gốc repo (nếu có) để biết khu vực, phân khúc, khán giả, giọng điệu. Mục nào trống thì giả định hợp lý và ghi rõ giả định ở cuối câu trả lời.
+1. Đọc `kenh-profile.md` (tìm ở thư mục đang làm việc, rồi `~/claude-skills/kenh-profile.md`) để biết khu vực, phân khúc, khán giả, giọng điệu. Mục nào trống thì giả định hợp lý và ghi rõ giả định ở cuối câu trả lời.
 2. Nếu người dùng nêu số lượng, trụ cột hoặc sự kiện cụ thể (lãi suất thay đổi, luật mới, dự án mới mở bán), ưu tiên theo đó.
 
 ## 5 trụ cột nội dung
