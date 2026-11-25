@@ -17,6 +17,7 @@ Bộ skill giúp Claude hỗ trợ sản xuất nội dung cho một kênh TikTo
 | [`bds-caption-hashtag`](skills/bds-caption-hashtag/SKILL.md) | Viết caption, hashtag, tiêu đề bìa, bình luận ghim |
 | [`bds-kiem-tra-tuan-thu`](skills/bds-kiem-tra-tuan-thu/SKILL.md) | Rà soát rủi ro pháp lý & chính sách TikTok trước khi đăng |
 | [`bds-lich-dang-bai`](skills/bds-lich-dang-bai/SKILL.md) | Lên lịch đăng tuần/tháng theo tỷ lệ trụ cột nội dung |
+| [`bds-hieu-ung-chu-sau-nguoi`](skills/bds-hieu-ung-chu-sau-nguoi/SKILL.md) | Chữ lớn sau người dẫn, phụ đề tránh mặt (chạy trên Mac, dùng `tools/mac-vision`) |
 
 ## Quy trình gợi ý
 
