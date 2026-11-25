@@ -6,7 +6,7 @@ description: Viết kịch bản video TikTok bất động sản (15–90 giây
 # Kịch bản TikTok Bất động sản
 
 ## Trước khi viết
-1. Đọc `kenh-profile.md` (nếu có): xưng hô, giọng điệu, định dạng chủ lực, CTA chính.
+1. Đọc `kenh-profile.md` (nếu có): xưng hô, giọng điệu, định dạng chủ lực, CTA chính, và **mục "Phong cách quay & edit hiện tại"**. Cột "Chữ trên màn hình" và "Cảnh quay" phải theo chuẩn edit ở mục đó (phụ đề chạy, từ khóa tô màu, nhịp đổi hình, bối cảnh quen thuộc của kênh).
 2. Xác định: chủ đề, độ dài (mặc định 30–45 giây), định dạng (nói camera / tham quan / faceless). Nếu thiếu, tự chọn hợp lý và ghi rõ.
 3. Tốc độ nói tiếng Việt trên TikTok ≈ 3–3,5 từ/giây → 30s ≈ 90–105 từ, 60s ≈ 180–210 từ. Không vượt quá.
 
