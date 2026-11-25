@@ -4,7 +4,7 @@
 
 ## Cơ bản
 - **Tên kênh / @handle:** Nguyễn Thuý bđs
-- **Người dẫn (xưng hô với người xem):** "em – anh chị"
+- **Người dẫn (xưng hô với người xem):** "em – anh chị" — **đã chốt 25/11/2026**. Áp cho lời thoại, phụ đề, chữ trên màn hình, caption, CTA. Không dùng "bạn", "mình", "chúng mình"; tự gọi mình là "em" hoặc "em Thuý".
 - **Vai trò của bạn:** Môi giới thuộc sàn và người chia sẻ kiến thức BĐS
 - **Có chứng chỉ hành nghề môi giới không? Thuộc doanh nghiệp/sàn nào?** Có chứng chỉ hành nghề môi giới. Thuộc Công ty Cổ phần Tập đoàn Won Group / sàn Won Homes *(cần xác nhận lại đúng tên pháp nhân ghi trên hợp đồng)*
 
